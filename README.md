@@ -1,14 +1,14 @@
 #
 <img alt="Coding" width="1000" height="200" src="https://camo.githubusercontent.com/2e23eadb7dca33af997b793f89ca195fb1be47a4e4f278b5c028ae102c8d8c33/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6865616465725f62616e6e65722d322e6a7067">
 <h1 align="center">Hi 👋, I'm Shahrukh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Devops Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrukh&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukh" /> </p>
 
-- 🌱 I’m currently learning **react native, next.js**
+- 🌱 I’m currently learning **Kubernetes, Docker, Python**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **Azure and AWS Cloud**
 
 - 📫 How to reach me **shahcsevira@gmail.com**
 

@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Docker, Python**
 
-- 💬 Ask me about **Azure and AWS Cloud**
+- 💬 Ask me about **Linux, Azure and AWS Cloud**
 
 - 📫 How to reach me **shahcsevira@gmail.com**
 

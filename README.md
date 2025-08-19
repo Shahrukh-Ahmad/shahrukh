@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrukh&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukh" /> </p>
 
-- 🌱 I’m currently learning **Gen AI**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **Python, SQL, ML, AI, Azure, Linux, and AWS Cloud**
+- 💬 Ask me about **Python, SQL, ML, AI, Fast API, NLP, Gen AI, RAG, Linux, Azure and AWS Cloud**
 
 - 📫 How to reach me **shahcsevira@gmail.com**
 
